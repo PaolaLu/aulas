@@ -1,1 +1,1 @@
-docker-compose exec backend yii $@
+docker-compose exec frontend yii $@
